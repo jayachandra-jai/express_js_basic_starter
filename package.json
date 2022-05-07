@@ -1,0 +1,26 @@
+{
+  "name": "jai-expressjs-basic-starter",
+  "version": "1.0.0",
+  "description": "basic starter for express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "author": "K Jayachandra <jayachandra.jai18@gmail.com>",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "helmet": "^3.12.1",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "mongoose": "^5.0.7",
+    "morgan": "^1.9.0",
+    "pino": "^4.7.2",
+    "shortid": "^2.2.8"
+  },
+  "license": "ISC"
+}
